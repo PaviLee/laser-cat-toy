@@ -2,7 +2,7 @@
 
 * 1 Arduino Uno
 * 1 Half+ Breadboard
-* 1 4 x AAA or 4 x AA Battery Packs
+* 1 4 x AAA or 4 x AA Battery Pack
 * 4 AAA or 4 AA Batteries 
 * 1 9V Battery
 * 2 SG90 Servos
